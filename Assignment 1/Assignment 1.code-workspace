@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../Codes/lec1_Overview"
+		},
+		{
+			"path": "../../Codes/lec2_MLBasics"
+		},
+		{
+			"path": "../../Codes/lec3_MLBasics"
+		}
+	],
+	"settings": {}
+}
